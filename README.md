@@ -1,6 +1,6 @@
 #  Hi, I'm Salaheldin
 
-# I'm building AI-powered systems that automate real business workflows — from customer service to sales, lead generation, and marketplace operations.
+# I'm building AI-powered systems that automate real business workflows, and AI Agents.
 
 # My focus areas:
 - Applied AI & automation (voice, chat, web scraping, agents)
@@ -25,4 +25,3 @@
 - Secure backend authentication (JWT, session-based)
 - Integrating AI in systems backend.
 - Scaling automation across public web data sources.
-
